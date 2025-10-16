@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "keys": [
+    { "value": "ABCD-1234-EFGH-5678", "expires": null },
+    { "value": "WXYZ-9999-TEST-0000", "expires": "2026-12-31" }
+  ]
+}
